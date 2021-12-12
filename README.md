@@ -32,8 +32,11 @@ If upgrading is not possible, then ensure the -Dlog4j2.formatMsgNoLookups=true s
 
 **References**
 https://nvd.nist.gov/vuln/detail/CVE-2021-44228
+
 apache/logging-log4j2#608
+
 https://github.com/tangxiaofeng7/apache-log4j-poc
+
 https://logging.apache.org/log4j/2.x/changes-report.html#a2.15.0
 https://logging.apache.org/log4j/2.x/manual/lookups.html#JndiLookup
 https://issues.apache.org/jira/browse/LOG4J2-3198
