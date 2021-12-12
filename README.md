@@ -33,21 +33,30 @@ If upgrading is not possible, then ensure the -Dlog4j2.formatMsgNoLookups=true s
 **References**
 https://nvd.nist.gov/vuln/detail/CVE-2021-44228
 
-apache/logging-log4j2#608
-
 https://github.com/tangxiaofeng7/apache-log4j-poc
 
 https://logging.apache.org/log4j/2.x/changes-report.html#a2.15.0
+
 https://logging.apache.org/log4j/2.x/manual/lookups.html#JndiLookup
+
 https://issues.apache.org/jira/browse/LOG4J2-3198
+
 https://issues.apache.org/jira/browse/LOG4J2-3201
+
 https://logging.apache.org/log4j/2.x/manual/migration.html
+
 https://logging.apache.org/log4j/2.x/security.html
+
 https://security.netapp.com/advisory/ntap-20211210-0007/
+
 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd
+
 http://packetstormsecurity.com/files/165225/Apache-Log4j2-2.14.1-Remote-Code-Execution.html
+
 http://www.openwall.com/lists/oss-security/2021/12/10/1
+
 http://www.openwall.com/lists/oss-security/2021/12/10/2
+
 http://www.openwall.com/lists/oss-security/2021/12/10/3
 
 
